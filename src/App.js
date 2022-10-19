@@ -13,7 +13,11 @@ function App() {
             Carla Miranda
           </a>{" "}
           and open-source on{" "}
-          <a href="https://github.com/carlapmsz/week-5" target="_blank">
+          <a
+            href="https://github.com/carlapmsz/week-5"
+            target="_blank"
+            rel="noreferrer"
+          >
             GitHub
           </a>
         </footer>
