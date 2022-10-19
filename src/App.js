@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div class="container">
-        <Weather />
+        <Weather defaultCity="London" />
         <footer>
           Coded by{" "}
           <a href="/" target="_blank">
