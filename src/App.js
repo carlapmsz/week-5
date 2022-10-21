@@ -21,7 +21,11 @@ function App() {
             GitHub
           </a>
           and hosted{" "}
-          <a href="/" target="_blank" rel="noreferrer">
+          <a
+            href="https://leafy-travesseiro-fb2c75.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             on Netlify
           </a>
         </footer>
