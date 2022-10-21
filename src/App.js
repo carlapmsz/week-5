@@ -20,7 +20,7 @@ function App() {
           >
             GitHub
           </a>
-          and hosted
+          and hosted{" "}
           <a href="" target="_blank" rel="noreferrer">
             on Netlify
           </a>
