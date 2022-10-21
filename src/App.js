@@ -9,7 +9,7 @@ function App() {
         <Weather defaultCity="London" />
         <footer>
           Coded by{" "}
-          <a href="https://www.shecodes.io/" target="_blank">
+          <a href="https://www.shecodes.io/" target="_blank" rel="noreferrer">
             SheCodes
           </a>{" "}
           and open-source on{" "}
@@ -21,7 +21,7 @@ function App() {
             GitHub
           </a>
           and hosted{" "}
-          <a href="" target="_blank" rel="noreferrer">
+          <a href="/" target="_blank" rel="noreferrer">
             on Netlify
           </a>
         </footer>
